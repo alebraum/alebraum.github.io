@@ -1,0 +1,13 @@
+baseURL = "https://alebraum.github.io/"
+languageCode = "en-us"
+title = "Alexander Braumann"
+
+enableRobotsTXT = true
+
+# Keep the site minimal.
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Mathematics · Statistics · Time Series"
+  author = "Alexander Braumann"
+
