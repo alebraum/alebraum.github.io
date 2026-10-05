@@ -1,1 +1,19 @@
-Hallo, das ist meine Website.
+#+TITLE: Home
+#+HUGO_BASE_DIR: ~/homepage
+#+HUGO_SECTION: /
+
+* Home
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:END:
+
+** About
+
+I am a mathematician and statistician interested in time series,
+econometrics and statistical modelling.
+
+** Recent writing
+
+- [[/posts/python-time-series/][Learning Python for Time Series]]
+- [[/posts/dynamic-factor-models/][Notes on Dynamic Factor Models]]
+
